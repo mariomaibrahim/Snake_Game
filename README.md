@@ -3,7 +3,7 @@
 A modern Snake game with neon design and smooth animations built using Python Turtle.
 
 
-![Snake Game](screenshots/Screenshot.png)
+![Snake Game](Screenshot/Screenshot.png)
 
 ## ✨ Features
 
