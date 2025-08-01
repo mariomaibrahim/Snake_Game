@@ -10,7 +10,6 @@ A modern Snake game with neon design and smooth animations built using Python Tu
 - *Neon Design*: Dark theme with glowing colors and grid background
 - *Smooth Animations*: Pulsing food and visual effects
 - *Progressive Speed*: Gets faster as you score more points
-- *Colorful Snake*: Random colors for body segments
 - *Dual Controls*: WASD keys or arrow keys
 
 ## 🎮 How to Play
