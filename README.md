@@ -1,11 +1,17 @@
-
-#The evil snake wants to eat, do not deprive it of food
-<br>
-# 🐍 Snake Game
+# 🐍 Snake Master Game
 
 A modern Snake game with neon design and smooth animations built using Python Turtle.
 
-![Snake Game](Screenshot 2025-07-31 180009.png)
+
+    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+    🟩⬛⬛⬛⬛⬛⬛⬛⬛🟩
+    🟩⬛🔴🟦🟦🟦⬛🟡⬛🟩
+    🟩⬛⬛⬛⬛🟦⬛⬛⬛🟩
+    🟩⬛⬛⬛⬛🟦⬛⬛⬛🟩
+    🟩⬛⬛⬛⬛⬛⬛⬛⬛🟩
+    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+
+🔴 Snake Head | 🟦 Snake Body | 🟡 Food
 
 ## ✨ Features
 
@@ -74,7 +80,7 @@ MIT License - feel free to use and modify!
 ## 👩‍💻 Author
 
 *Mariam Ibrahim*  
-GitHub: [@mariamibrahim](https://github.com/mariomaibrahim)
+GitHub: [@mariamibrahim](https://github.com/mariamibrahim)
 
 ---
 
