@@ -1,11 +1,11 @@
-# Snake_Game
-The evil snake wants to eat, do not deprive it of food
 
+#The evil snake wants to eat, do not deprive it of food
+<br>
 # 🐍 Snake Game
 
 A modern Snake game with neon design and smooth animations built using Python Turtle.
 
-![Snake Game](screenshots/gameplay.png)
+![Snake Game](Screenshot 2025-07-31 180009.png)
 
 ## ✨ Features
 
