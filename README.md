@@ -25,7 +25,7 @@ A modern Snake game with neon design and smooth animations built using Python Tu
 1. *Install Python 3.6+*
 2. *Clone & Run:*
    bash
-   git clone https://github.com/yourusername/snake-master-game.git
+   git clone https://github.com/mariomaibrahim/Snake_Game.git
    cd snake-master-game
    python snake_game.py
    
@@ -65,14 +65,10 @@ delay -= 0.002  # Speed increase rate
 3. Commit changes
 4. Push and create a Pull Request
 
-## 📝 License
-
-MIT License - feel free to use and modify!
-
 ## 👩‍💻 Author
 
 *Mariam Ibrahim*  
-GitHub: [@mariamibrahim](https://github.com/mariamibrahim)
+GitHub: [@mariamibrahim](https://github.com/mariomaibrahim)
 
 ---
 
